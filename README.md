@@ -40,3 +40,14 @@ The goal is to identify:
 ## 📈 Data Visualization
 
 ![Addiction Scatter Plot](images/addiction_scatter.png)
+
+## 💡 Recommendations
+
+Based on the analysis, several actions could help reduce excessive social media use:
+
+- Introduce daily usage limits to help users reduce screen time.
+- Reduce non-essential notifications that encourage repeated checking.
+- Focus awareness efforts on high-risk platforms such as TikTok.
+- Encourage healthier digital habits, especially for users with high daily usage hours.
+
+These recommendations are supported by the strong relationship between daily usage time and addiction score found in the analysis.
