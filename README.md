@@ -51,3 +51,7 @@ Based on the analysis, several actions could help reduce excessive social media 
 - Encourage healthier digital habits, especially for users with high daily usage hours.
 
 These recommendations are supported by the strong relationship between daily usage time and addiction score found in the analysis.
+
+## 👤 Author
+
+Vasileios Posnakidis
